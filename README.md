@@ -51,6 +51,12 @@ Research Domains: Computational Neuroscience, Complex Network Science,
 
 ## Selected Publications
 
+- **Spatiotemporal Bursting in Simulated Cultures of Cortical Neurons** (2026)  
+  M. Stiber, N. Gonzales, J.Y.H. Lee. *BioSystems*, 105868, [doi:10.1016/j.biosystems.2026.105868](https://doi.org/10.1016/j.biosystems.2026.105868).
+- **Graph Neural Network Interpretation of Bursting in Biological Neuronal Networks** (2026)  
+  H. Dhanasekaran, M. Stiber. *35th International Conference on Artificial Neural Networks (ICANN)*, Padua, Italy.
+- **Effects of Spike Timing Dependent Plasticity on Structure and Behavior of Simulated Neural Networks** (2025)  
+  V. Arndorfer, M. Stiber. *14th International Conference on Complex Networks and their Applications*, Binghamton, NY.
 - **Graph-Based Simulation of Emergency Services Communications Systems** (2022)  
   J. Martinez Jordan, V. Salvatore, B. Endicott-Popovsky, V. Gandhi, C. O'Keefe, M.S. Sotebeer, M. Stiber. *Annual Modeling and Simulation Conference (ANNSIM)*.
 - **Software and Data Provenance as a Basis for eScience Workflow** (2021)  
