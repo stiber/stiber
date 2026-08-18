@@ -97,3 +97,8 @@ Full publication list available via [Google Scholar](https://scholar.google.com/
 - **Google Scholar**: [Michael Stiber](https://scholar.google.com/citations?user=G4581GMAAAAJ)
 - **ORCID**: [0000-0002-1061-7667](https://orcid.org/0000-0002-1061-7667)
 - **LinkedIn**: [linkedin.com/in/stiber](https://www.linkedin.com/in/stiber)
+
+---
+
+<sub>*This work has been partially generated with use of a language model (AI), and the author has read through and tested the resulting content to ensure it accurately reflects the original intent. All errors are the responsibility of the author.*</sub>
+
